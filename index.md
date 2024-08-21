@@ -2,5 +2,6 @@
 ### This is sub header
 ###### Way of writing headers in Markdown.
 
-##### Practicing Images
-![https://images.app.goo.gl/BiKBAaivkVL9aYvu7]
+##### Practicing Images and Links
+[https://images.app.goo.gl/BiKBAaivkVL9aYvu7]
+![D:\Mahek\TestData\logo.webp]
